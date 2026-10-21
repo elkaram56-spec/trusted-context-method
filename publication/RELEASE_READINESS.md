@@ -1,4 +1,4 @@
-# Release readiness — RC2 (NOT PUBLISHED)
+# Release readiness — RC3 editorial candidate (NOT PUBLISHED)
 
 ## Confirmed configuration
 - Site: https://www.im-center.ru/trusted-context-method
@@ -26,3 +26,6 @@ This archive is a publication candidate, not an actual release or DOI.
 
 ## Release scope decision — 2026-10-21
 The author approved exclusion of all commercial AI TRUST CONTEXT course materials from the public TCM release. Retain only author-owned method specifications RU/EN, seven distinct public templates, bibliography and citation/license metadata, subject to rights clearance. Original 39-slide course/source deck, course workbooks, prompts, exercises, Evidence Packs and mentor materials are excluded. Illustrative narratives in the existing approved references require explicit editorial disposition; exclusion of files alone does not establish content-level clearance. See PUBLICATION_CHECKLIST.md.
+
+## RC3 Errata 1 — 2026-10-21
+[Errata 1 / RC3 change record](ERRATA_1_RC3.md) documents replacement of course-specific examples with short abstract illustrations in both language references and the Gate heading alignment. This is not final source/rights or bilingual sign-off.
