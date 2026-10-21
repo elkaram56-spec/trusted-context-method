@@ -23,3 +23,6 @@ This archive is a publication candidate, not an actual release or DOI.
 - [RU/EN bilingual reconciliation](BILINGUAL_RECONCILIATION_2026-10-21.md): structural and identifier parity PASS (editorial); independent translation review and terminology issues remain OPEN.
 - [Source provenance and rights audit](SOURCE_RIGHTS_AUDIT_2026-10-21.md): 39-slide source mapped to actual slide positions; author-owned licensing approved; third-party rights, slide 2 image, S0–S4 locators and bibliography checks remain OPEN.
 - These reviews do not authorize a public release, DOI, runtime Gate PASS or legal clearance.
+
+## Release scope decision — 2026-10-21
+The author approved exclusion of all commercial AI TRUST CONTEXT course materials from the public TCM release. Retain only author-owned method specifications RU/EN, seven distinct public templates, bibliography and citation/license metadata, subject to rights clearance. Original 39-slide course/source deck, course workbooks, prompts, exercises, Evidence Packs and mentor materials are excluded. Illustrative narratives in the existing approved references require explicit editorial disposition; exclusion of files alone does not establish content-level clearance. See PUBLICATION_CHECKLIST.md.
