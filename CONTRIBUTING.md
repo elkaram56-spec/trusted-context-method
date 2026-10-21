@@ -1,3 +1,3 @@
 # Contributing
 
-Contributions and corrections are welcome via issues and pull requests. Please identify the affected stage, artifact or Gate; explain the proposed change and provide evidence or rationale. Do not include confidential source materials. Changes to the normative method require authorial review. This is an open authorial method, not a certified international standard.
+Issues and pull requests for errata, translations, independent validation, and example cases are welcome after the repository is published. Changes to the normative 7-stage method require author review and versioned approval. Do not submit personal, client-confidential or proprietary evidence.

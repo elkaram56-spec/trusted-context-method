@@ -1,38 +1,23 @@
 # Trusted Context Method (TCM)
 
-**v1.5 · Open Edition · EN/RU · Working publication draft**
+**v1.5 · Open Edition 1.0 · EN/RU · Release candidate (not yet published)**
 
-TCM is an original, evidence-oriented methodology for constructing, grounding, verifying and governing context used by AI systems to support decisions and authorized actions.
+TCM is an open, evidence-oriented methodology for constructing, verifying and governing context used by AI systems to support decisions and authorized actions.
 
 **Author:** Stanislav Karamushko · #DataTrustMaker  
-**License for the method and documentation:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Status:** Open authorial methodology; not an international standard or independently certified method.
+**Public method license:** CC BY-SA 4.0 (subject to the release rights review).  
+**Status:** Original authorial methodology, open to independent evaluation. Not an international standard or independently certified method.
 
-## Seven stages
+- [English overview](docs/en/method-reference.md) — English full translation pending
+- [Русская полная спецификация](docs/ru/method-reference.md) — 7 этапов, 7 артефактов, Gates
+- [Русские шаблоны](templates/ru/)
+- [Publication checklist](publication/PUBLICATION_CHECKLIST.md)
+- [Zenodo metadata](publication/zenodo-metadata.json)
+- [References](references/REFERENCES.md)
+- [Site source](site/)
 
-| Stage | Artifact |
-| --- | --- |
-| FRAME | VBQ — Validated Business Question |
-| MODEL | MVTC — Minimum Viable Trusted Context |
-| BUILD | TCBS — Trusted Context Build Snapshot |
-| GROUND | GCP — Grounded Context Package |
-| CONNECT | TCAC — Trusted Context Access Check |
-| VERIFY | VRP — Verification Result Package |
-| DECIDE | DSP — Decision & Scope Package |
+**Three independent controls:** epistemic status (KNOWN / DERIVED / INFERRED / UNKNOWN / CONFLICTED), delegation (AUTO / REVIEW / HUMAN), decision (ACT / REQUEST EVIDENCE / ESCALATE / STOP).
 
-Each stage has a corresponding Gate criterion.
+**Course:** [AI TRUST CONTEXT](https://www.im-center.ru/ai-trust-context-course) is a separate educational offering. Course materials are licensed separately under CC BY-NC-SA 4.0 where indicated.
 
-**Three independent control dimensions:** epistemic status (KNOWN / DERIVED / INFERRED / UNKNOWN / CONFLICTED), delegation (AUTO / REVIEW / HUMAN), and decision (ACT / REQUEST EVIDENCE / ESCALATE / STOP).
-
-**Key distinctions:** Appointment ≠ Delegation; Supported Answer ≠ Authorized Action; UNKNOWN ≠ STOP.
-
-## Publication status
-
-This repository is being populated from a reviewed release-candidate package. The complete Russian specification and English documentation are subject to editorial acceptance. No official GitHub Release or DOI has yet been issued.
-
-**Official method page:** https://www.im-center.ru/trusted-context-method  
-**Related course:** [AI TRUST CONTEXT](https://www.im-center.ru/ai-trust-context-course). Course materials are a separate product and may carry CC BY-NC-SA 4.0 terms.
-
-## License
-
-Methodology text and documentation: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Software implementations may use separate licenses.
+**Release discipline:** this repository is a publication-ready *draft package*, not evidence of an actual GitHub release, Zenodo deposit or DOI. Do not tag as final until the checklist is completed.
