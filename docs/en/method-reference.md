@@ -238,7 +238,7 @@ The following fields, types, and invariants form the recommended implementation 
 
 ## 7. Formal Gates: PASS/FAIL criteria
 
-| Gate | Artifact | Proposed PASS | FAIL / restriction |
+| Gate | Artifact | PASS criterion | FAIL / restriction |
 | --- | --- | --- | --- |
 | G1 FRAME | VBQ | Question, objective, date, object, scope, and human approval are present | Do not start MODEL with an ambiguous question |
 | G2 MODEL | MVTC | All necessary types and Evidence Needs are described; unknowns are not fabricated | Do not build the graph until sufficiency is approved |
@@ -250,31 +250,21 @@ The following fields, types, and invariants form the recommended implementation 
 
 A machine PASS against a schema means structural conformity only; semantic sufficiency and authority require REVIEW/HUMAN. No automatic “self-repair” after FAIL without an approved change plan.
 
-## 8. Complete “Stroypak” walkthrough
+## 8. Brief application example: contract approval
 
-Training question: “Who is responsible for approving Contract No. 1 as of 25 May 2026?” S0–S4 are treated as an Evidence Pack. The presentation does not establish a final answer; the example does not substitute for independent verification of original documents.
+**Illustration, not a training case or evidence of a real-world conclusion:** the question is who has authority to approve a contract as of a specified date. FRAME identifies the contract, date, and distinction between approval and signing. MODEL defines roles, documents, relations, and Evidence Needs. BUILD checks the actual model against an approved plan. GROUND links material Claims to verifiable Evidence and locators. CONNECT confirms actual retrieval of the relevant context. VERIFY checks the applicability of rules and dates. DECIDE records the permissible decision status and next step. Appointment to a role alone does not establish signing authority.
 
-| Stage | Training action | Required deliverable |
-| --- | --- | --- |
-| FRAME | Specify the contract, date, and approval ≠ signing | VBQ with scope |
-| MODEL | Define Contract, Person, Department, Role, Rule, Source, Evidence, Claim | MVTC and Evidence Needs |
-| BUILD | Create the approved model in an existing realm | TCBS + read-back |
-| GROUND | Map S0–S4 to Claims and consider effective dates | GCP with locators |
-| CONNECT | Retrieve the graph through Onto/MCP without re-uploading S0–S4 | TCAC with retrieved IDs |
-| VERIFY | Check whether “role → function → authority” inferences are admissible | VRP and conflicts |
-| DECIDE | Specify the permissible next step within authority | DSP and responsible subject |
+Complete training documents, exercises, Evidence Packs, and guided walkthroughs belong to the separate commercial course and are not part of the open TCM edition.
 
-Illustrative detail from the presentation: S2 — Order No. 41 dated 2 May 2026, with a Claim concerning the appointment of the head of OZS. Appointment alone does not confer signature authority. The locator must be verified against the original; it must not be invented.
+## 9. Brief application example: equipment replacement
 
-## 9. Additional example: laptop replacement
+Equipment renewal decisions should consider operational context and employee experience alongside aggregated failure data. This may change the decision hypothesis, but economic benefit must be measured after implementation.
 
-Illustration: 20 laptops, four years of service, 18 failures per month. Taking shift experience and failure causes into account leads to a hypothesis of replacing eight specific devices rather than all twenty. This is not a proven economic benefit: downtime, costs, and post-implementation results must be measured separately.
+Value chain: TTD → TTC (context) → TTI (insight) → decision → TTM (implementation) → TTV (measured value). Hard data and Soft data complement each other.
 
-Value-chain relationship: TTD → TTC (context) → TTI (insight) → decision → TTM (implementation) → TTV (measured value). Hard data and Soft data complement each other.
+## 10. Method evaluation protocol
 
-## 10. Training experiment protocol
-
-Answer A: AI accesses the original S0–S4 directly; Answer B: the same question is answered through structured Trusted Context in Onto/MCP without re-uploading the source documents. No superiority of B is presumed.
+Answer A: AI accesses the original source documents directly; Answer B: the same question is answered through structured Trusted Context in Onto/MCP without re-uploading the source documents. No superiority of B is presumed.
 
 | Metric | Operational definition [v1.5 editorial formulation] |
 | --- | --- |
@@ -298,7 +288,7 @@ Experiment controls: same question and Evidence Pack, fixed assessment criteria,
 - Do not publish confidential Evidence in Onto without explicit authorization and an established storage policy.
 - Application of TCM in a particular industry requires local procedures and designated responsible parties.
 
-## 12. Acceptance and defense of a learner's work
+## 12. Review of method application results
 
 | Artifact | Evidence to be checked |
 | --- | --- |
@@ -310,7 +300,7 @@ Experiment controls: same question and Evidence Pack, fixed assessment criteria,
 | VRP | Evidence and limitations are explicit |
 | DSP | Action does not exceed authority |
 
-During the defense, the learner explains: what AI prepared; the precise grounds; why passing each Gate is justified; and who has authority to decide. An Excel file or graph alone does not establish mastery of the method.
+During a method application review, the practitioner explains: what AI prepared; the precise grounds; why passing each Gate is justified; and who has authority to decide. An Excel file or graph alone does not establish mastery of the method.
 
 ## 13. Provenance, bibliography, and license
 
