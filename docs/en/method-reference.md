@@ -300,7 +300,7 @@ Experiment controls: same question and Evidence Pack, fixed assessment criteria,
 | VRP | Evidence and limitations are explicit |
 | DSP | Action does not exceed authority |
 
-During a method application review, the practitioner explains: what AI prepared; the precise grounds; why passing each Gate is justified; and who has authority to decide. An Excel file or graph alone does not establish mastery of the method.
+During a method application review, the practitioner explains: what AI prepared; the precise grounds; why passing each Gate is justified; and who has authority to decide. An Excel file or graph alone does not establish correct application of the method.
 
 ## 13. Provenance, bibliography, and license
 
