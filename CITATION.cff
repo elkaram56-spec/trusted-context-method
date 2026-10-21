@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the Trusted Context Method repository and the version of the material you used."
+title: "Trusted Context Method (TCM)"
+type: generic
+authors:
+  - family-names: Karamushko
+    given-names: Stanislav
+repository-code: https://github.com/elkaram56-spec/trusted-context-method
+license: CC-BY-SA-4.0
