@@ -10,7 +10,7 @@ TCM is an open, evidence-oriented methodology for constructing, verifying and go
 
 - [English full reference](docs/en/method-reference.md) — complete translation, bilingual editorial review pending
 - [Русская полная спецификация](docs/ru/method-reference.md) — 7 этапов, 7 артефактов, Gates
-- [Русские шаблоны](templates/ru/)
+- [Семь публичных шаблонов RC3](templates/ru/schema-aligned/)
 - [Publication checklist](publication/PUBLICATION_CHECKLIST.md)
 - [Zenodo metadata](publication/zenodo-metadata.json)
 - [References](references/REFERENCES.md)
