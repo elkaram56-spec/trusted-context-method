@@ -24,3 +24,9 @@
 - [ ] Verify the seven public templates are distinct from restricted course templates and contain only author-owned, licensed public-method content.
 
 **Licensing boundary:** CC BY-SA 4.0 applies to author-owned public-method content. Commercial course content is excluded from the distribution and retains its separately designated licensing/contractual terms; do not presume that every course item carries an identical license.
+
+## RC3 editorial record — 2026-10-21
+- [x] Replace detailed course walkthroughs in public RU/EN §§8–9 with short abstract illustrations; see [Errata 1](ERRATA_1_RC3.md).
+- [x] Align the inherited draft PASS table heading in RU/EN §7.
+- [ ] Review remaining educational wording in §§10 and 12, plus the complete repository contents, for course-only material.
+- [ ] Obtain final editorial and rights sign-off before any GitHub Release or Zenodo DOI.
