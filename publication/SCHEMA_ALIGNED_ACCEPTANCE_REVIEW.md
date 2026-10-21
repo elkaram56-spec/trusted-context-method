@@ -1,6 +1,6 @@
 # TCM v1.5 — Editorial acceptance review for seven schema-aligned templates
 
-**Status:** REVIEW / authorial licensing decision recorded 2026-10-21; normative acceptance pending. **Scope:** templates/ru/schema-aligned/{VBQ,MVTC,TCBS,GCP,TCAC,VRP,DSP}.md. **Normative baseline:** docs/ru/method-reference.md §§6–7. This review does not amend the approved normative reference or declare any Gate passed.
+**Status:** RC3 EDITORIALLY ACCEPTED (2026-10-21); release authorization and runtime validation pending. **Scope:** templates/ru/schema-aligned/{VBQ,MVTC,TCBS,GCP,TCAC,VRP,DSP}.md. **Normative baseline:** docs/ru/method-reference.md §§6–7. This review does not amend the approved normative reference or declare any Gate passed.
 
 ## Confirmed
 - All seven draft templates are present and distinguish common metadata from artifact-specific fields.
@@ -17,12 +17,12 @@
 
 ## Acceptance criteria
 - [x] Authorial licensing decision recorded (2026-10-21; third-party rights audit remains open)
-- [ ] Seven artifact field/type/requiredness comparisons signed off against §§6–7
-- [ ] G1–G7 Gate outcomes represented independently of template completeness
-- [ ] TCBS write protocol and re-approval on failure documented
-- [ ] GCP repeatability and DSP UNKNOWN authority resolved
-- [ ] Reviewer, date and disposition recorded
-- [ ] Only then promote drafts to approved release templates
+- [x] Seven artifact field/type/requiredness comparisons editorially reviewed against §§6–7
+- [x] G1–G7 Gate outcomes represented independently of template completeness
+- [x] TCBS write protocol and review-on-discrepancy documented (runtime not tested)
+- [x] GCP repeatability and DSP UNKNOWN authority author-approved
+- [x] Author decision, date and editorial disposition recorded below
+- [x] Promoted seven drafts to RC3 editorially accepted public templates; release approval still pending
 
 ## Non-goals
 No Onto runtime test, no claim that S0–S4 original locators are verified, no release/tag/DOI, no change to docs/ru/method-reference.md.
@@ -40,3 +40,6 @@ Added explanatory sections for G1–G7 without modifying normative required fiel
 ## Author decision — 2026-10-21
 
 Accepted: GCP repeatable Source–Evidence–Claim records retaining normative scalar field types; DSP authority string may explicitly be UNKNOWN, which never permits ACT. Editorial template acceptance is distinct from actual Gate execution and third-party rights clearance.
+
+## RC3 disposition — 2026-10-21
+All seven schema-aligned files now carry **public template (RC3)** and **editorially accepted** labels, replacing obsolete DRAFT labels. The earlier unresolved questions recorded above are historical review notes, superseded by the author decision and this disposition. This does **not** assert real-case Gate PASS, executable schema compliance, independent review or final publication authorization.
