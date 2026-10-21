@@ -17,7 +17,7 @@
 - Bibliography: `../references/REFERENCES.md` — expanded reference details, external live verification and source-to-claim mapping not certified.
 
 ## Outstanding release conditions
-- [ ] Rights disposition: author confirms that each distributed text/template is original or lawfully reusable and that no protected course or third-party content remains. The current audit is not a legal opinion.
+- [x] **Author rights attestation (2026-10-21):** author confirms the public method specifications and seven templates are author-owned or lawfully reusable and authorizes CC BY-SA 4.0 distribution of this public package. Commercial course materials and the source presentation remain excluded. This attestation is not an independent legal opinion or a Git-history purge.
 - [x] Author accepted disclosure of English as an **author-reviewed editorial translation**, not independently reviewed or certified (2026-10-21).
 - [ ] Final source-to-claim reference review and external link checks, including the live Tilda page and language switch.
 - [ ] Confirm exact release manifest, tag name, release notes and metadata; avoid confusing a 14-file curated package with GitHub's complete source archive.
@@ -27,7 +27,7 @@
 - **Decision:** APPROVE / APPROVE WITH CONDITIONS / RETURN FOR CORRECTION
 - **Accepted revision (commit SHA):** ______________________
 - **Conditions or corrections:** ______________________
-- **Rights and licensing attestation:** ______________________
+- **Rights and licensing attestation:** **CONFIRMED by author 2026-10-21**, public specifications and seven templates licensed CC BY-SA 4.0; no authorization to publish excluded course/source assets.
 - **EN translation status accepted as:** **author-reviewed editorial translation** (author confirmed 2026-10-21; not independently reviewed or certified)
 - **Name and date:** ______________________
 
