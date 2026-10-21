@@ -1,6 +1,6 @@
 # Trusted Context Method (TCM)
 
-**v1.5 · Open Edition 1.0 · EN/RU · Release candidate (not yet published)**
+**v1.5 · Open Edition 1.0 · EN/RU · Published release**
 
 TCM is an open, evidence-oriented methodology for constructing, verifying and governing context used by AI systems to support decisions and authorized actions.
 
@@ -21,4 +21,4 @@ TCM is an open, evidence-oriented methodology for constructing, verifying and go
 
 **Course:** [AI TRUST CONTEXT](https://www.im-center.ru/ai-trust-context-course) is a separate educational offering. Course materials are licensed separately under CC BY-NC-SA 4.0 where indicated.
 
-**Release discipline:** this repository is a publication-ready *draft package*, now published as [GitHub Release v1.5-open-edition-1.0](https://github.com/elkaram56-spec/trusted-context-method/releases/tag/v1.5-open-edition-1.0) and assigned DOI [10.5281/zenodo.23546420](https://doi.org/10.5281/zenodo.23546420). Do not tag as final until the checklist is completed.
+**Published edition:** [GitHub Release v1.5-open-edition-1.0](https://github.com/elkaram56-spec/trusted-context-method/releases/tag/v1.5-open-edition-1.0) · [Zenodo DOI 10.5281/zenodo.23546420](https://doi.org/10.5281/zenodo.23546420). The release tag fixes the archived edition; later updates to `main` do not change that snapshot.
