@@ -29,3 +29,6 @@ The author approved exclusion of all commercial AI TRUST CONTEXT course material
 
 ## RC3 Errata 1 — 2026-10-21
 [Errata 1 / RC3 change record](ERRATA_1_RC3.md) documents replacement of course-specific examples with short abstract illustrations in both language references and the Gate heading alignment. This is not final source/rights or bilingual sign-off.
+
+## Release Audit RC3 — 2026-10-21
+[RC3 audit and 14-file distribution allowlist](RC3_RELEASE_AUDIT_AND_MANIFEST.md). **Verdict: HOLD.** Detailed Stroypak example and CC BY-NC-SA original templates remain in the public repository, even though excluded from the proposed distribution ZIP; GitHub tag source archives would still expose them. Stale site/docs copies are also present. No GitHub Release or DOI until a clean publication boundary and final QA are established.
