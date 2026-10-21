@@ -1,6 +1,6 @@
 # TCM v1.5 Open Edition 1.0 — final author acceptance protocol (RC3)
 
-**Prepared:** 2026-10-21. **Disposition:** SUBMITTED FOR AUTHOR REVIEW — **NOT APPROVED / NOT RELEASED**.
+**Prepared:** 2026-10-21. **Disposition:** **AUTHOR APPROVED FOR PUBLIC GITHUB RELEASE (2026-10-21)** — publication execution not yet verified; Zenodo DOI not yet issued.
 
 ## Scope of acceptance
 - Canonical normative RU and editorial EN references (`docs/ru/method-reference.md`, `docs/en/method-reference.md`).
@@ -21,17 +21,17 @@
 - [x] Author accepted disclosure of English as an **author-reviewed editorial translation**, not independently reviewed or certified (2026-10-21).
 - [ ] Final source-to-claim reference review and independent external-link checks remain open. **The author reports having personally checked the published Tilda page and wishes to proceed (2026-10-21); this is author-reported acceptance, not independently reproduced runtime QA.**
 - [ ] Confirm exact release manifest, tag name, release notes and metadata; avoid confusing a 14-file curated package with GitHub's complete source archive. **Zenodo draft description updated to disclose author-reviewed EN translation; proposed tag: `v1.5-open-edition-1.0` (not created).**
-- [ ] Final explicit author sign-off on the release candidate.
+- [x] Final explicit author sign-off on the release candidate: author confirmed “утверждаем” on 2026-10-21 in response to authorization for a public GitHub Release.
 
 ## Author acceptance decision (to be completed by author)
-- **Decision:** APPROVE / APPROVE WITH CONDITIONS / RETURN FOR CORRECTION
-- **Accepted revision (commit SHA):** ______________________
-- **Conditions or corrections:** ______________________
+- **Decision:** **APPROVE FOR GITHUB RELEASE**, with disclosed QA limitations; not a claim of independently completed live-link or legal review.
+- **Accepted revision (commit SHA):** finalize after this approval-record commit; tag must target the then-current verified main HEAD.
+- **Conditions or corrections:** retain author-reported live-site acceptance, disclose EN editorial translation status and unverified independent external-link/source-to-claim checks; keep commercial course assets excluded.
 - **Rights and licensing attestation:** **CONFIRMED by author 2026-10-21**, public specifications and seven templates licensed CC BY-SA 4.0; no authorization to publish excluded course/source assets.
 - **EN translation status accepted as:** **author-reviewed editorial translation** (author confirmed 2026-10-21; not independently reviewed or certified)
-- **Name and date:** ______________________
+- **Name and date:** Stanislav Karamushko — 2026-10-21 (explicit approval in conversation).
 
-**Control rule:** Preparation of this protocol by an assistant is not authorial approval. Do not create a GitHub Release, version tag, Zenodo deposit or DOI until the author explicitly approves the final immutable revision and remaining conditions are resolved or accepted with clearly documented limitations.
+**Control rule:** Preparation of this protocol by an assistant is not authorial approval. Author approval for public GitHub Release was explicitly given 2026-10-21. A tag/release may now be created against a verified immutable commit with the documented limitations; Zenodo deposition and DOI remain a separate next step.
 
 ## Author-reported live-site acceptance — 2026-10-21
 The author confirmed the TCM page is published at https://www.im-center.ru/trusted-context-method and stated that they had checked it and authorized progression to the next release-preparation step. No claim is made that this assistant independently reproduced the live bilingual switch or all external-link checks. This statement does not itself constitute final release/tag/DOI approval.
