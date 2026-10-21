@@ -36,3 +36,7 @@ Compared each schema-aligned draft against the field names, types, and requiredn
 Added explanatory sections for G1–G7 without modifying normative required fields. G3 specifies READ → PLAN → APPROVE → WRITE → READ BACK → COMPARE; G4 uses repeatable normative scalar records (container convention still requires approval); G7 preserves `authority` as string and proposes literal `UNKNOWN` with no ACT (convention still requires approval).
 
 **Pending authorial decision:** accept GCP repeatable-record convention and DSP authority=`UNKNOWN` convention; then decide whether to mark the templates approved for editorial publication. Third-party rights review and real-case Gate tests remain open.
+
+## Author decision — 2026-10-21
+
+Accepted: GCP repeatable Source–Evidence–Claim records retaining normative scalar field types; DSP authority string may explicitly be UNKNOWN, which never permits ACT. Editorial template acceptance is distinct from actual Gate execution and third-party rights clearance.
