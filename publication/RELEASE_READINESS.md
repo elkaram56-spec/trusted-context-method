@@ -32,3 +32,9 @@ The author approved exclusion of all commercial AI TRUST CONTEXT course material
 
 ## Release Audit RC3 — 2026-10-21
 [RC3 audit and 14-file distribution allowlist](RC3_RELEASE_AUDIT_AND_MANIFEST.md). **Verdict: HOLD.** Detailed Stroypak example and CC BY-NC-SA original templates remain in the public repository, even though excluded from the proposed distribution ZIP; GitHub tag source archives would still expose them. Stale site/docs copies are also present. No GitHub Release or DOI until a clean publication boundary and final QA are established.
+
+## Post-cleanup verification — 2026-10-21
+- Recursive main tree inspected at commit `6c32f514cf7ed7222ec54418efa433988fa0eaa6`: **38 tracked files; all eight identified course-only files absent** from the current branch.
+- `site/docs/ru/method-reference.md` and `site/docs/en/method-reference.md` were replaced from canonical `docs/` copies in commits `e9bed652b53eb342c1543ae57882a43a35b40ea0` and `6c32f514cf7ed7222ec54418efa433988fa0eaa6`.
+- Updated `examples/README.md` and `CHANGELOG.md` to remove stale course/release claims.
+- Earlier RC3 HOLD statement above is a historical finding **resolved for current-branch file exposure only**. Git history remains publicly accessible. Rights, independent bilingual review, bibliography, and full automated link QA are still OPEN; release remains HOLD.
