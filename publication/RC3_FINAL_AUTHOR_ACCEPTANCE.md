@@ -19,8 +19,8 @@
 ## Outstanding release conditions
 - [x] **Author rights attestation (2026-10-21):** author confirms the public method specifications and seven templates are author-owned or lawfully reusable and authorizes CC BY-SA 4.0 distribution of this public package. Commercial course materials and the source presentation remain excluded. This attestation is not an independent legal opinion or a Git-history purge.
 - [x] Author accepted disclosure of English as an **author-reviewed editorial translation**, not independently reviewed or certified (2026-10-21).
-- [ ] Final source-to-claim reference review and external link checks, including the live Tilda page and language switch.
-- [ ] Confirm exact release manifest, tag name, release notes and metadata; avoid confusing a 14-file curated package with GitHub's complete source archive.
+- [ ] Final source-to-claim reference review and external link checks, including the live Tilda page and language switch. **Source-level site paths checked; live page availability and switch not verified.**
+- [ ] Confirm exact release manifest, tag name, release notes and metadata; avoid confusing a 14-file curated package with GitHub's complete source archive. **Zenodo draft description updated to disclose author-reviewed EN translation; proposed tag: `v1.5-open-edition-1.0` (not created).**
 - [ ] Final explicit author sign-off on the release candidate.
 
 ## Author acceptance decision (to be completed by author)
