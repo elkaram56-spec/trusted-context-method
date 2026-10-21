@@ -12,6 +12,7 @@ TCM is an open, evidence-oriented methodology for constructing, verifying and go
 - [Русская полная спецификация](docs/ru/method-reference.md) — 7 этапов, 7 артефактов, Gates
 - [Семь публичных шаблонов RC3](templates/ru/schema-aligned/)
 - [Publication checklist](publication/PUBLICATION_CHECKLIST.md)
+- [Zenodo DOI — Open Edition 1.0](https://doi.org/10.5281/zenodo.23546420)
 - [Zenodo metadata](publication/zenodo-metadata.json)
 - [References](references/REFERENCES.md)
 - [Site source](site/)
@@ -20,4 +21,4 @@ TCM is an open, evidence-oriented methodology for constructing, verifying and go
 
 **Course:** [AI TRUST CONTEXT](https://www.im-center.ru/ai-trust-context-course) is a separate educational offering. Course materials are licensed separately under CC BY-NC-SA 4.0 where indicated.
 
-**Release discipline:** this repository is a publication-ready *draft package*, not evidence of an actual GitHub release, Zenodo deposit or DOI. Do not tag as final until the checklist is completed.
+**Release discipline:** this repository is a publication-ready *draft package*, now published as [GitHub Release v1.5-open-edition-1.0](https://github.com/elkaram56-spec/trusted-context-method/releases/tag/v1.5-open-edition-1.0) and assigned DOI [10.5281/zenodo.23546420](https://doi.org/10.5281/zenodo.23546420). Do not tag as final until the checklist is completed.
