@@ -8,7 +8,7 @@ TCM is an open, evidence-oriented methodology for constructing, verifying and go
 **Public method license:** CC BY-SA 4.0 (subject to the release rights review).  
 **Status:** Original authorial methodology, open to independent evaluation. Not an international standard or independently certified method.
 
-- [English overview](docs/en/method-reference.md) — English full translation pending
+- [English full reference](docs/en/method-reference.md) — complete translation, bilingual editorial review pending
 - [Русская полная спецификация](docs/ru/method-reference.md) — 7 этапов, 7 артефактов, Gates
 - [Русские шаблоны](templates/ru/)
 - [Publication checklist](publication/PUBLICATION_CHECKLIST.md)
