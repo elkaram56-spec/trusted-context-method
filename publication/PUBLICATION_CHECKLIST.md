@@ -14,3 +14,13 @@
 - [ ] Run accessibility, bilingual link and mobile QA.
 
 **DO NOT PUBLISH:** SOURCE_INTERNAL_DO_NOT_PUBLISH.docx, original presentation, client data, or any CC BY-NC-SA course pack unless separately authorized.
+
+## Public-method / commercial-course separation — author decision 2026-10-21
+
+- [x] Scope decision: the public TCM release contains the method specification (RU/EN), seven public schema-aligned artifact templates, methodological references, licensing and citation metadata only after rights clearance.
+- [x] Exclude all AI TRUST CONTEXT commercial teaching content: course slide decks, workbooks, exercises, mentor notes, participant handouts, prompts, assessment materials and original S0–S4 Evidence Packs. Do not publish the 39-slide source presentation.
+- [ ] Inspect repository contents and release archive for accidental inclusion of course-derived text or files, confidential information, and third-party works; remove or rewrite as necessary before release.
+- [ ] Decide whether illustrative case narratives already embedded in the public RU/EN reference are retained as independently authorized method examples or redacted in a version-controlled editorial revision. Do not silently strip approved normative text.
+- [ ] Verify the seven public templates are distinct from restricted course templates and contain only author-owned, licensed public-method content.
+
+**Licensing boundary:** CC BY-SA 4.0 applies to author-owned public-method content. Commercial course content is excluded from the distribution and retains its separately designated licensing/contractual terms; do not presume that every course item carries an identical license.
