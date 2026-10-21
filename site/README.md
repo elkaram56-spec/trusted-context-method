@@ -1,3 +1,1 @@
-# Website snapshot
-
-The website source in the original RC2 archive requires separate review before publication. The official site is https://www.im-center.ru/trusted-context-method.
+Static bilingual site. Preview index.html or en.html/ru.html. Markdown reference files are included in site/docs/ for portable preview; production should render them to accessible HTML. Proposed IM Center path /tcm/ is not confirmed.

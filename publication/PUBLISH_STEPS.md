@@ -1,11 +1,8 @@
 # Publication steps
 
-1. Review the full normative Russian reference.
-2. Reconcile the English translation.
-3. Resolve rights and license inconsistencies.
-4. Validate artifact schemas, examples, and Gates.
-5. Approve release metadata.
-6. Create the GitHub release tag.
-7. Archive the approved release with Zenodo and obtain a DOI.
-
-Do not publish a fabricated DOI or claim certification.
+1. In Tilda Vibe Coding, paste `publication/TILDA_ACCEPTANCE_TASK.md` and apply changes.
+2. Review `docs/ru/method-reference.md`, `docs/en/method-reference.md`, templates and source citations. Resolve blockers in `RELEASE_READINESS.md`.
+3. In GitHub account `elkaram56-spec`, create public repository `trusted-context-method` (do not initialize with README). Upload the contents of the `trusted-context-method` folder, not its enclosing folder.
+4. Check file tree, links and license, then tag the approved public release. Do not publish this RC2 as final.
+5. Create Zenodo account, authorize GitHub integration, enable the repository and archive a GitHub release; verify DOI and metadata.
+6. Add verified GitHub/DOI links to Tilda, update website status, and test EN/RU.
