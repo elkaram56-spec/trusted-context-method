@@ -19,7 +19,7 @@
 ## Outstanding release conditions
 - [x] **Author rights attestation (2026-10-21):** author confirms the public method specifications and seven templates are author-owned or lawfully reusable and authorizes CC BY-SA 4.0 distribution of this public package. Commercial course materials and the source presentation remain excluded. This attestation is not an independent legal opinion or a Git-history purge.
 - [x] Author accepted disclosure of English as an **author-reviewed editorial translation**, not independently reviewed or certified (2026-10-21).
-- [ ] Final source-to-claim reference review and external link checks, including the live Tilda page and language switch. **Source-level site paths checked; live page availability and switch not verified.**
+- [ ] Final source-to-claim reference review and independent external-link checks remain open. **The author reports having personally checked the published Tilda page and wishes to proceed (2026-10-21); this is author-reported acceptance, not independently reproduced runtime QA.**
 - [ ] Confirm exact release manifest, tag name, release notes and metadata; avoid confusing a 14-file curated package with GitHub's complete source archive. **Zenodo draft description updated to disclose author-reviewed EN translation; proposed tag: `v1.5-open-edition-1.0` (not created).**
 - [ ] Final explicit author sign-off on the release candidate.
 
@@ -32,3 +32,6 @@
 - **Name and date:** ______________________
 
 **Control rule:** Preparation of this protocol by an assistant is not authorial approval. Do not create a GitHub Release, version tag, Zenodo deposit or DOI until the author explicitly approves the final immutable revision and remaining conditions are resolved or accepted with clearly documented limitations.
+
+## Author-reported live-site acceptance — 2026-10-21
+The author confirmed the TCM page is published at https://www.im-center.ru/trusted-context-method and stated that they had checked it and authorized progression to the next release-preparation step. No claim is made that this assistant independently reproduced the live bilingual switch or all external-link checks. This statement does not itself constitute final release/tag/DOI approval.
