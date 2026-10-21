@@ -18,7 +18,7 @@
 
 ## Outstanding release conditions
 - [ ] Rights disposition: author confirms that each distributed text/template is original or lawfully reusable and that no protected course or third-party content remains. The current audit is not a legal opinion.
-- [ ] Independent bilingual editorial sign-off **or** explicit author-approved disclosure that English is an uncertified editorial translation.
+- [x] Author accepted disclosure of English as an **author-reviewed editorial translation**, not independently reviewed or certified (2026-10-21).
 - [ ] Final source-to-claim reference review and external link checks, including the live Tilda page and language switch.
 - [ ] Confirm exact release manifest, tag name, release notes and metadata; avoid confusing a 14-file curated package with GitHub's complete source archive.
 - [ ] Final explicit author sign-off on the release candidate.
@@ -28,7 +28,7 @@
 - **Accepted revision (commit SHA):** ______________________
 - **Conditions or corrections:** ______________________
 - **Rights and licensing attestation:** ______________________
-- **EN translation status accepted as:** independently reviewed / author-reviewed editorial translation / pending
+- **EN translation status accepted as:** **author-reviewed editorial translation** (author confirmed 2026-10-21; not independently reviewed or certified)
 - **Name and date:** ______________________
 
 **Control rule:** Preparation of this protocol by an assistant is not authorial approval. Do not create a GitHub Release, version tag, Zenodo deposit or DOI until the author explicitly approves the final immutable revision and remaining conditions are resolved or accepted with clearly documented limitations.
